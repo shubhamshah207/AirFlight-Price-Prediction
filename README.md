@@ -1,4 +1,4 @@
-# AirFlight-Price-Prediction
+# AirFlight-Price-Prediction (Group 10)
 ***Team Member:<br>***
 Shubham Shah<br>
 Jeel Patel<br>
@@ -114,3 +114,5 @@ This project can be used to implement the system where prices of the air travel 
 - dataset_report_generation.ipynb - report generation on dataset is done in this notebook.
 - Modeling.ipynb - modeling (linear regression and Random Forest comparision)
 - LookupFiles - Categorical variable mappings.
+
+Mid-Project-Video : 
