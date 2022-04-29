@@ -21,7 +21,7 @@ Our goal is to analyze the prices of the fare for different source, destination,
 
 We trained the Machine Learning model based on the available dataset and will predict the price for the future month. 
 
-***Note: To run this project you first need to download the dataset and model from given readne.md mentioned in the folders respectively.
+***Note: To run this project you first need to download the dataset and model from given readne.md mentioned in the folders respectively.***
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
