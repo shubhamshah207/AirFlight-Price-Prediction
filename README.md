@@ -8,11 +8,11 @@ Rama Sri Saladi<br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Agenda
-Motivation
-Data & Task
-Visual Encoding (UI Example)
-Data Modeling Plan and Prediction
-Conclusion
+Motivation<br>
+Data & Task <br>
+Visual Encoding (UI Example) <br>
+Data Modeling Plan and Prediction <br>
+Conclusion<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
