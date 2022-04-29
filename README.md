@@ -1,5 +1,5 @@
 # AirFlight-Price-Prediction
-Team Member:<br>
+***Team Member:<br>***
 Shubham Shah<br>
 Jeel Patel<br>
 Manjusha Dondeti<br>
@@ -19,7 +19,9 @@ Conclusion<br>
 # Project Goal
 Our goal is to analyze the prices of the fare for different source, destination, coupons, number of passengers, month, distance, ticket career, airline, etc.
 
-We will also train the Machine Learning model based on the available dataset and will predict the price for the future month. 
+We trained the Machine Learning model based on the available dataset and will predict the price for the future month. 
+
+***Note: To run this project you first need to download the dataset and model from given readne.md mentioned in the folders respectively.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -85,7 +87,7 @@ As per the boxplot we can remove the values less than 50 and above 1000 for fare
 
 # Additional Screen 
 
-We are also planning to add pandas profiling report as a separate screen which will be using the raw data set. 
+We have also added the html report from pandas profiling for the whole dataset.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -93,7 +95,7 @@ We are also planning to add pandas profiling report as a separate screen which w
 
 We will be dividing data into two parts, one for training the model and other for the testing. 
 
-We will be using logistic regression and random forest regression models to train and predict the data.
+We will be using Linear regression and random forest regression models to train and predict the data.
 
 Based on the accuracy, we will select the most efficient model for predicting the prices based on the parameters given.
 
@@ -101,22 +103,5 @@ Based on the accuracy, we will select the most efficient model for predicting th
 
 # Conclusion
 
-We will follow the plan mentioned above and if required add additional functionalities based on the requirements. 
-
-The app will not look exactly like the given format but we are sure that we will add more than what we have committed in this presentation. 
-
-We will host our application on herokuapp.com and will update our code and dataset on github. 
-
+- For this dataset, Random Forest is more accurate than Linear Regression hence, selected it as a final model.
 This project can be used to implement the system where prices of the air travel needs to be predicted, where user can see prices for different future time and based on that they can plan the journey or vacation. For example, booking.com can implement this model to predict the estimated price.
-
-
-
-
-
-
-
-
-
-
-
-
