@@ -115,4 +115,5 @@ This project can be used to implement the system where prices of the air travel 
 - Modeling.ipynb - modeling (linear regression and Random Forest comparision)
 - LookupFiles - Categorical variable mappings.
 
-Mid-Project-Video : 
+Mid-Project-Video : https://drive.google.com/file/d/13fzK01HlaJKIdo_JYFYdbd5bNWNXMqx-/view?usp=sharing
+Final Demo: https://drive.google.com/file/d/1M69aVL6m6C2KlnOWhaemoUCqzPmPZhOM/view?usp=sharing
