@@ -1,9 +1,9 @@
 # AirFlight-Price-Prediction
-Team Member:
-Shubham Shah
-Jeel Patel
-Manjusha Dondeti
-Rama Sri Saladi
+Team Member:<br>
+Shubham Shah<br>
+Jeel Patel<br>
+Manjusha Dondeti<br>
+Rama Sri Saladi<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
