@@ -88,6 +88,7 @@ As per the boxplot we can remove the values less than 50 and above 1000 for fare
 # Additional Screen 
 
 We have also added the html report from pandas profiling for the whole dataset.
+https://drive.google.com/file/d/1KJ-yK3-72v4j-8YvIqssyOaDjeqTkZSu/view?usp=sharing
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
