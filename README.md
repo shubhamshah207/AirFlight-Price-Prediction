@@ -105,3 +105,12 @@ Based on the accuracy, we will select the most efficient model for predicting th
 
 - For this dataset, Random Forest is more accurate than Linear Regression hence, selected it as a final model.
 This project can be used to implement the system where prices of the air travel needs to be predicted, where user can see prices for different future time and based on that they can plan the journey or vacation. For example, booking.com can implement this model to predict the estimated price.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Files and Usage.
+- app.py main file to run streamlit app. (streamlit run app.py)
+- dataPreProcessingAndEDA.ipynb - data preprocessing done in this notebook.
+- dataset_report_generation.ipynb - report generation on dataset is done in this notebook.
+- Modeling.ipynb - modeling (linear regression and Random Forest comparision)
+- LookupFiles - Categorical variable mappings.
